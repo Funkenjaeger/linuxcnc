@@ -43,3 +43,9 @@ position.txt
 # Ignore test results
 *.result
 
+
+*.orig
+
+share/qtvcp/screens/qtdragon/backup/
+
+share/qtvcp/screens/qtdragon/resources.py
